@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PRG522_FA2/1.0.0": {
+        "runtime": {
+          "PRG522_FA2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRG522_FA2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

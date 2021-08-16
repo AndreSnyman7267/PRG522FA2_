@@ -1,0 +1,13 @@
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\bin\Debug\netcoreapp3.1\PRG522_FA2.exe
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\bin\Debug\netcoreapp3.1\PRG522_FA2.deps.json
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\bin\Debug\netcoreapp3.1\PRG522_FA2.runtimeconfig.json
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\bin\Debug\netcoreapp3.1\PRG522_FA2.runtimeconfig.dev.json
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\bin\Debug\netcoreapp3.1\PRG522_FA2.dll
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\bin\Debug\netcoreapp3.1\PRG522_FA2.pdb
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\obj\Debug\netcoreapp3.1\PRG522_FA2.csproj.AssemblyReference.cache
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\obj\Debug\netcoreapp3.1\PRG522_FA2.AssemblyInfoInputs.cache
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\obj\Debug\netcoreapp3.1\PRG522_FA2.AssemblyInfo.cs
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\obj\Debug\netcoreapp3.1\PRG522_FA2.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\obj\Debug\netcoreapp3.1\PRG522_FA2.dll
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\obj\Debug\netcoreapp3.1\PRG522_FA2.pdb
+C:\Users\User-PC\source\repos\PRG522_FA2\PRG522_FA2\obj\Debug\netcoreapp3.1\PRG522_FA2.genruntimeconfig.cache
